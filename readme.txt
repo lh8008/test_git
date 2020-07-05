@@ -5,3 +5,7 @@ step 2: git commit -m "readme.txt" //用命令 git commit告诉Git，把文件提交到仓库
 step 3: //版本回退
 
 step 4:　444444
+
+5555
+
+step 5: //远程提交
